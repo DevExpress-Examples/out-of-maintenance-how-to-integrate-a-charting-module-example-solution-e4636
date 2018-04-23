@@ -1,0 +1,55 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryChart_1", "InventoryChart_1\InventoryChart_1.vbproj", "{E27C2CDB-73B1-4914-9EA5-D30023F46D4C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryChart_3", "InventoryChart_3\InventoryChart_3.vbproj", "{037E0837-9912-4C5B-BAA2-1670A06A74B9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryChart_4", "InventoryChart_4\InventoryChart_4.vbproj", "{9C82BF64-F2F6-4C6F-BEF1-850808771E59}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryChart_5", "InventoryChart_5\InventoryChart_5.vbproj", "{66E65528-3768-4B2E-9A20-5D7EF9C63DA6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryChart_6", "InventoryChart_6\InventoryChart_6.vbproj", "{618453A2-45C4-4510-AE9D-D0033C12BD34}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryChart_2", "InventoryChart_2\InventoryChart_2.vbproj", "{6C675A9C-DC8A-430E-8A0C-4AF56A69D1C1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventoryChart_7", "InventoryChart_7\InventoryChart_7.vbproj", "{75320D2B-91CA-41E2-88F5-35042112E7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27C2CDB-73B1-4914-9EA5-D30023F46D4C}.Debug|x86.ActiveCfg = Debug|x86
+		{E27C2CDB-73B1-4914-9EA5-D30023F46D4C}.Debug|x86.Build.0 = Debug|x86
+		{E27C2CDB-73B1-4914-9EA5-D30023F46D4C}.Release|x86.ActiveCfg = Release|x86
+		{E27C2CDB-73B1-4914-9EA5-D30023F46D4C}.Release|x86.Build.0 = Release|x86
+		{037E0837-9912-4C5B-BAA2-1670A06A74B9}.Debug|x86.ActiveCfg = Debug|x86
+		{037E0837-9912-4C5B-BAA2-1670A06A74B9}.Debug|x86.Build.0 = Debug|x86
+		{037E0837-9912-4C5B-BAA2-1670A06A74B9}.Release|x86.ActiveCfg = Release|x86
+		{037E0837-9912-4C5B-BAA2-1670A06A74B9}.Release|x86.Build.0 = Release|x86
+		{9C82BF64-F2F6-4C6F-BEF1-850808771E59}.Debug|x86.ActiveCfg = Debug|x86
+		{9C82BF64-F2F6-4C6F-BEF1-850808771E59}.Debug|x86.Build.0 = Debug|x86
+		{9C82BF64-F2F6-4C6F-BEF1-850808771E59}.Release|x86.ActiveCfg = Release|x86
+		{9C82BF64-F2F6-4C6F-BEF1-850808771E59}.Release|x86.Build.0 = Release|x86
+		{66E65528-3768-4B2E-9A20-5D7EF9C63DA6}.Debug|x86.ActiveCfg = Debug|x86
+		{66E65528-3768-4B2E-9A20-5D7EF9C63DA6}.Debug|x86.Build.0 = Debug|x86
+		{66E65528-3768-4B2E-9A20-5D7EF9C63DA6}.Release|x86.ActiveCfg = Release|x86
+		{66E65528-3768-4B2E-9A20-5D7EF9C63DA6}.Release|x86.Build.0 = Release|x86
+		{618453A2-45C4-4510-AE9D-D0033C12BD34}.Debug|x86.ActiveCfg = Debug|x86
+		{618453A2-45C4-4510-AE9D-D0033C12BD34}.Debug|x86.Build.0 = Debug|x86
+		{618453A2-45C4-4510-AE9D-D0033C12BD34}.Release|x86.ActiveCfg = Release|x86
+		{618453A2-45C4-4510-AE9D-D0033C12BD34}.Release|x86.Build.0 = Release|x86
+		{6C675A9C-DC8A-430E-8A0C-4AF56A69D1C1}.Debug|x86.ActiveCfg = Debug|x86
+		{6C675A9C-DC8A-430E-8A0C-4AF56A69D1C1}.Debug|x86.Build.0 = Debug|x86
+		{6C675A9C-DC8A-430E-8A0C-4AF56A69D1C1}.Release|x86.ActiveCfg = Release|x86
+		{6C675A9C-DC8A-430E-8A0C-4AF56A69D1C1}.Release|x86.Build.0 = Release|x86
+		{75320D2B-91CA-41E2-88F5-35042112E7AE}.Debug|x86.ActiveCfg = Debug|x86
+		{75320D2B-91CA-41E2-88F5-35042112E7AE}.Debug|x86.Build.0 = Debug|x86
+		{75320D2B-91CA-41E2-88F5-35042112E7AE}.Release|x86.ActiveCfg = Release|x86
+		{75320D2B-91CA-41E2-88F5-35042112E7AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
